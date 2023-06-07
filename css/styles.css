@@ -64,7 +64,7 @@ label {
 
 input,
 textarea,
-#destination_details_form button {
+button {
   display: block;
   width: 100%;
   margin-bottom: 1em;
@@ -77,4 +77,8 @@ textarea,
   padding: 20px;
   margin-bottom: 20px;
   background-color: #d4f5d0;
+}
+
+button {
+  background-color: #8ae680;
 }
